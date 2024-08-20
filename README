@@ -1,0 +1,9 @@
+xrandr scripts for displaying high res on my 1366x768 X220
+(duplication is done for 1920x1080 TV via DP-HDMI)
+  mul-def.sh - 2nd screen, native res, no dup
+  dup-fhd.sh - 2nd screen, 1920x1080, dup
+  dup-hd.sh  - 2nd screen, 1600x900, dup
+  dup-low.sh - 2nd screen, 1366x768, dup
+  sng-fhd.sh - single screen, 1920x1080
+  sng-hd.sh  - single screen, 1600x900
+  sng-low.sh - single screen, 1366x768 (default)
